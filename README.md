@@ -1,2 +1,3 @@
 # chigaku-library
-地学部用ホームページのcss, jsライブラリ
+
+地学部用ホームページ用のcssとjsのライブラリ
